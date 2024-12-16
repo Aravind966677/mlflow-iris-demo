@@ -6,6 +6,22 @@
 
 This project implements a comparative analysis of different solvers for Logistic Regression using the Iris dataset, with experiment tracking powered by MLflow. The experiment evaluates multiple optimization algorithms (solvers) to determine their performance in multi-class classification.
 
+## Screenshots
+
+Here are some screenshots demonstrating the experiment tracking interface and results:
+
+### MLflow Experiment Interface
+![MLflow Experiment Interface](screenshots/mlflow_interface.png)
+*MLflow interface showing multiple runs with different solvers*
+
+### Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+*Parallel coordinates plot comparing different solver performances*
+
+### Metrics Dashboard
+![Metrics Dashboard](screenshots/metrics_dashboard.png)
+*Dashboard showing accuracy and F1 scores across different solvers*
+
 ## Overview
 
 The code performs the following main tasks:
@@ -105,6 +121,34 @@ The LogisticRegression models are configured with:
    - Analyzing metric values
    - Examining parameter configurations
 
+## Project Structure
+
+```
+project/
+│
+├── 1-ml project/                  # Main project directory
+│   └── start.ipynb               # Jupyter notebook containing the main code
+│
+├── mlartifacts/                  # MLflow artifacts directory
+│   └── 11091597582516732/       # Run ID directory containing model artifacts
+│       ├── [multiple hash directories]  # Individual run artifacts
+│
+├── mlruns/                       # MLflow runs directory
+│   ├── .trash                    # Deleted runs
+│   ├── 0                        # Default experiment directory
+│   ├── 11091597582516732        # Experiment ID directory
+│   ├── models                    # Stored models directory
+│   └── venv                      # Virtual environment
+│
+├── .gitignore                    # Git ignore file
+├── get-start.ipynb              # Getting started notebook
+├── LICENSE                      # Project license file
+├── README.md                    # This documentation file
+└── requirements.txt             # Project dependencies
+```
+
+[Rest of the README remains the same]
+
 ## Contributing
 
 1. Fork the repository
@@ -112,11 +156,3 @@ The LogisticRegression models are configured with:
 3. Commit changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information]
