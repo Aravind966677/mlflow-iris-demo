@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734376980900
+current_stage: None
+description: ''
+last_updated_timestamp: 1734376980900
+name: tracking-quickstart-newton-cg
+run_id: 42b6cae8798b4565a052eb3bb6bcd692
+run_link: ''
+source: mlflow-artifacts:/551225698594173623/42b6cae8798b4565a052eb3bb6bcd692/artifacts/iris_model_newton-cg
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/551225698594173623/42b6cae8798b4565a052eb3bb6bcd692/artifacts/iris_model_newton-cg
+user_id: null
+version: 1

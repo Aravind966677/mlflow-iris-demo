@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734376991941
+current_stage: None
+description: ''
+last_updated_timestamp: 1734376991941
+name: tracking-quickstart-bfgs
+run_id: 62bf9fd6cec9458ab8f865057512cadb
+run_link: ''
+source: mlflow-artifacts:/551225698594173623/62bf9fd6cec9458ab8f865057512cadb/artifacts/iris_model_bfgs
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/551225698594173623/62bf9fd6cec9458ab8f865057512cadb/artifacts/iris_model_bfgs
+user_id: null
+version: 1

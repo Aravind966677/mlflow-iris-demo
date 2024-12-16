@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/551225698594173623/42b6cae8798b4565a052eb3bb6bcd692/artifacts
+end_time: 1734376980965
+entry_point_name: ''
+experiment_id: '551225698594173623'
+lifecycle_stage: active
+run_id: 42b6cae8798b4565a052eb3bb6bcd692
+run_name: lr_newton-cg
+run_uuid: 42b6cae8798b4565a052eb3bb6bcd692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734376970157
+status: 3
+tags: []
+user_id: billa
