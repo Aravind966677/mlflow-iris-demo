@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/110915975825167327
+creation_time: 1734367595144
+experiment_id: '110915975825167327'
+last_update_time: 1734367595144
+lifecycle_stage: active
+name: Solver Comparison for Logistic Regression
