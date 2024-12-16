@@ -11,18 +11,12 @@ This project implements a comparative analysis of different solvers for Logistic
 Here are some screenshots demonstrating the experiment tracking interface and results:
 
 ### MLflow Experiment Interface
-![MLflow Experiment Interface](screenshots/mlflow_interface.png)
+![MLflow Experiment Interface](ScreenShots\Screenshot 2024-12-16 114919.png)
 *MLflow interface showing multiple runs with different solvers*
 
-### Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
-*Parallel coordinates plot comparing different solver performances*
-
-### Metrics Dashboard
-![Metrics Dashboard](screenshots/metrics_dashboard.png)
-*Dashboard showing accuracy and F1 scores across different solvers*
 
 ## Overview
+
 
 The code performs the following main tasks:
 1. Loads and preprocesses the Iris dataset
