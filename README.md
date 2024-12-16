@@ -11,7 +11,7 @@ This project implements a comparative analysis of different solvers for Logistic
 Here are some screenshots demonstrating the experiment tracking interface and results:
 
 ### MLflow Experiment Interface
-![MLflow Experiment Interface](ScreenShots\Screenshot 2024-12-16 114919.png)
+![MLflow Experiment Interface](ScreenShots/Screenshot%202024-12-16%20114919.png)
 *MLflow interface showing multiple runs with different solvers*
 
 
@@ -150,3 +150,28 @@ project/
 3. Commit changes
 4. Push to the branch
 5. Create a Pull Request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
