@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734365566780
+current_stage: None
+description: ''
+last_updated_timestamp: 1734365566780
+name: logistic_regression_solver_lbfgs
+run_id: 33dcc26328bb4fc1a089ba90d835fbc5
+run_link: ''
+source: mlflow-artifacts:/233321564568298758/33dcc26328bb4fc1a089ba90d835fbc5/artifacts/logistic_regression_lbfgs
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/233321564568298758/33dcc26328bb4fc1a089ba90d835fbc5/artifacts/logistic_regression_lbfgs
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/233321564568298758/de6fb8116bfa4bd1afab743b13556508/artifacts
+end_time: 1734365577590
+entry_point_name: ''
+experiment_id: '233321564568298758'
+lifecycle_stage: active
+run_id: de6fb8116bfa4bd1afab743b13556508
+run_name: valuable-zebra-147
+run_uuid: de6fb8116bfa4bd1afab743b13556508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734365566910
+status: 3
+tags: []
+user_id: billa

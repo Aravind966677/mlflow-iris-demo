@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734365597031
+current_stage: None
+description: ''
+last_updated_timestamp: 1734365597031
+name: logistic_regression_solver_saga
+run_id: 95083a0d2a274ab2bfe5da4a9e73687a
+run_link: ''
+source: mlflow-artifacts:/233321564568298758/95083a0d2a274ab2bfe5da4a9e73687a/artifacts/logistic_regression_saga
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/233321564568298758/95083a0d2a274ab2bfe5da4a9e73687a/artifacts/logistic_regression_saga
+user_id: null
+version: 1
