@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/110915975825167327/bd520712e86f4afbb8d1ebcadb504cad/artifacts
+end_time: 1734368209376
+entry_point_name: ''
+experiment_id: '110915975825167327'
+lifecycle_stage: active
+run_id: bd520712e86f4afbb8d1ebcadb504cad
+run_name: upset-trout-832
+run_uuid: bd520712e86f4afbb8d1ebcadb504cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734368199450
+status: 3
+tags: []
+user_id: billa

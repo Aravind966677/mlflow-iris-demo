@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734368219624
+current_stage: None
+description: ''
+last_updated_timestamp: 1734368219624
+name: logistic_regression_solver_newton-cg
+run_id: 0cf396ab0f70411eae11ce0bb426d6d8
+run_link: ''
+source: mlflow-artifacts:/110915975825167327/0cf396ab0f70411eae11ce0bb426d6d8/artifacts/logistic_regression_newton-cg
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/110915975825167327/0cf396ab0f70411eae11ce0bb426d6d8/artifacts/logistic_regression_newton-cg
+user_id: null
+version: 2

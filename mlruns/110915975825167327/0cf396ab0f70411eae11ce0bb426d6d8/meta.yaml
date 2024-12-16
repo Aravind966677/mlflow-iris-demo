@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/110915975825167327/0cf396ab0f70411eae11ce0bb426d6d8/artifacts
+end_time: 1734368219670
+entry_point_name: ''
+experiment_id: '110915975825167327'
+lifecycle_stage: active
+run_id: 0cf396ab0f70411eae11ce0bb426d6d8
+run_name: hilarious-crab-543
+run_uuid: 0cf396ab0f70411eae11ce0bb426d6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734368209446
+status: 3
+tags: []
+user_id: billa
